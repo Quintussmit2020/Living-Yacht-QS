@@ -1,0 +1,25 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl placa_induccion_NEEF_T58TS11N0_negro
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.027451 0.027451
+Ks 0.330000 0.330000 0.330000
+
+newmtl placa_induccion_NEEF_T58TS11N0
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.031373 0.035294
+Ks 0.330000 0.330000 0.330000
+map_Kd NEFF 1/placa_induccion_NEEF_T58TS11N0.jpg
+
+newmtl placa_induccion_NEEF_T58TS11N0_acero
+Ka 0.000000 0.000000 0.000000
+Kd 0.301961 0.301961 0.301961
+Ks 0.330000 0.330000 0.330000
+
+newmtl placa_induccion_NEEF_T58TS11N0_rojo
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.239216 0.258824
+Ks 0.330000 0.330000 0.330000
+

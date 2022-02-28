@@ -2,8 +2,256 @@ fileFormatVersion: 2
 guid: 3403b9b5ecffbd74686867d8e596f551
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
-  externalObjects: {}
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: ab729b73f7975da40bce15e5f6ba955a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dimmer - Steel
+    second: {fileID: 2100000, guid: 842fb07c14d6a77448a9125eee74aee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halogen00
+    second: {fileID: 2100000, guid: 4f0f6d71a33c1e349ade41f7b63aff7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halogen02
+    second: {fileID: 2100000, guid: d9b1d45c71bead049bb1649ed0e377f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halogen04
+    second: {fileID: 2100000, guid: 8a8d33fe674597143b5161b45b7191c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halogen05
+    second: {fileID: 2100000, guid: 2ff523160ced3c6469babef65402700f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halogen06_steel
+    second: {fileID: 2100000, guid: 64173709655e7cd4b9601475ba59d7e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halogen06_white
+    second: {fileID: 2100000, guid: d6558404983008b488e632e1a24457fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halogen_Back
+    second: {fileID: 2100000, guid: ecfbab722bc906747926963eb88779f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halogen_Cokol
+    second: {fileID: 2100000, guid: b0504b795482a4f42920219f889600ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halogen_Cokol_1
+    second: {fileID: 2100000, guid: a2495e40768d8244b8c12e856e3e64a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halogen_front
+    second: {fileID: 2100000, guid: f2e399dda746c914dba9e33e52b87ba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #15
+    second: {fileID: 2100000, guid: 252a7648bcbf85b47851536ae18c7d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #17
+    second: {fileID: 2100000, guid: 7fb93d2cdbeb6ca4f8283a9c848fb4d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #18
+    second: {fileID: 2100000, guid: c83d161c8870705459356b6aa7738d23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #19
+    second: {fileID: 2100000, guid: d170058ca4aac864aa8f57c2e46e3df0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2
+    second: {fileID: 2100000, guid: d97a58bb710fc5949b3edfd401fa2114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #20
+    second: {fileID: 2100000, guid: 270d9177d7f768c4ea5b1f87e309fa3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #24
+    second: {fileID: 2100000, guid: e113353b7361871408fb0dc7e908195c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #3
+    second: {fileID: 2100000, guid: 4cfe55683bd192b4c9dc4a53fb42774e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #44
+    second: {fileID: 2100000, guid: e716a5436c5937844a4b61062fca44a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tecido
+    second: {fileID: 2100000, guid: f66443a5c8270514bb0d6be5db4088de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WOOD__Fine__Birch Satin
+    second: {fileID: 2100000, guid: a11279b42dd702d4bb40b4f43a8bdda8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium
+    second: {fileID: 2100000, guid: 13c1b8a09bc7a494db83345ffa2fd14d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: 2321a782d4b24eb419ea25da8d80c845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_01
+    second: {fileID: 2100000, guid: 06ab58d9c99f0134791b40a0ab7f84bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gloss
+    second: {fileID: 2100000, guid: 70bcb33788894424c8b552ec46d77ffd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 44f8dd6bf051bab4da0896a253d31f86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: matt black #1
+    second: {fileID: 2100000, guid: 5bff7e6a15093c647a675a518749c332, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: matt wood #1
+    second: {fileID: 2100000, guid: e9463ae11f794cb438392302d509bbd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: 4ab42f08fb96ea64c8cf258bd93882d5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 118_brown vertical siding wood texture-seamless
+    second: {fileID: 2800000, guid: 821e8f60990cc394398bbcb6db1ee613, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 118_brown vertical siding wood texture-seamless_Normal
+    second: {fileID: 2800000, guid: 6c16a68b93ffc7f4f97b4bd123ea01bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 170_fiber cement texture-seamless
+    second: {fileID: 2800000, guid: f44e60f4b83bf9d40833f0d41690cef0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 170_fiber cement texture-seamless_Normal
+    second: {fileID: 2800000, guid: 254dab9d05f857d44b16a8e280e53057, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 18_venetian plaster texture-seamless
+    second: {fileID: 2800000, guid: db6aa89902cc9874996f59279efbc8c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 18_venetian plaster texture-seamless_Normal
+    second: {fileID: 2800000, guid: 21b1e0045fe914e45b6c221e379428e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 24_wood decking texture-seamless
+    second: {fileID: 2800000, guid: c06e74272b44cf1418cca91728d40c39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 24_wood decking texture-seamless_Normal
+    second: {fileID: 2800000, guid: f82783a20c159fd4192472286171ae7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 29_iron metal texture-seamless
+    second: {fileID: 2800000, guid: 687f89de49d970049a010bdceb98169a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 35_slab marble white calacatta gold texture-seamless
+    second: {fileID: 2800000, guid: f10731ee694198843af955e6ebc599bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 38_rectangular agata tile texture-seamless
+    second: {fileID: 2800000, guid: 89e020c2de7c57346b7700b1f116c4a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 38_rectangular agata tile texture-seamless_Normal
+    second: {fileID: 2800000, guid: 05f69efe7401e354c88530e4281ba7ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3_slab brown marble emperador texture-seamless
+    second: {fileID: 2800000, guid: 6fc35222f80a31c4eb9d1216acd5025a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 47_brass satin metal texture-seamless
+    second: {fileID: 2800000, guid: fd92a4a600980bb499e3ad5404017e8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 58_dark fine wood texture-seamless
+    second: {fileID: 2800000, guid: 642c506552909b540b3ad488ef583f98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 58_dark fine wood texture-seamless_Normal
+    second: {fileID: 2800000, guid: 762707fdd0baba84ebe352b459b155e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9_aluminium brushed random metal texture-seamless
+    second: {fileID: 2800000, guid: 1a637a58008773748a91c7a74832defc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal columns
+    second: {fileID: 2800000, guid: bbbb433a79a57b3469d724fd98e005fe, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -36,7 +284,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 1
