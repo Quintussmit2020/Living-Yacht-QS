@@ -20,11 +20,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BASE_COLOR_MAP:
-        m_Texture: {fileID: 2800000, guid: 9e7204b4e65df194488eda4c4ea1c72b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0de1ce2fddf06464aa86e34d0d4df0be, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BUMP_MAP:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 90af8571edf9cbb45912f1a86938bf5a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EMISSION_COLOR_MAP:
@@ -66,7 +66,7 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _BASE_COLOR_WEIGHT: 1
-    - _BUMP_MAP_STRENGTH: 0.3
+    - _BUMP_MAP_STRENGTH: 0.5
     - _Blend: 0
     - _BumpScale: 1
     - _ClearCoatMask: 0
@@ -87,9 +87,9 @@ Material:
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _QueueOffset: 0
-    - _REFLECTIONS_IOR: 1.52
+    - _REFLECTIONS_IOR: 1.5
     - _REFLECTIONS_ROUGHNESS: 0
-    - _REFLECTIONS_WEIGHT: 1
+    - _REFLECTIONS_WEIGHT: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0

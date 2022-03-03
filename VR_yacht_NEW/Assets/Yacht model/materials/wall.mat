@@ -24,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BUMP_MAP:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 66c6cd46550e5584eab7d7362b6c1c2e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EMISSION_COLOR_MAP:
